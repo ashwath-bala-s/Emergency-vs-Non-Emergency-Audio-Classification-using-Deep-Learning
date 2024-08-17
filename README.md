@@ -10,7 +10,11 @@ The objective of this project is to develop a deep learning model that classifie
 
 **Dataset:**
 
-The Dataset used for this project are the audio files containing records of Emergency (emergency.wav) vs Non-Emergency (non-emergency.wav)
+The Dataset used for this project are the audio files:
+
+(i) Emergency (emergency.wav) 
+
+(ii) Non-Emergency (non-emergency.wav)
 
 **Project Description:**
 
